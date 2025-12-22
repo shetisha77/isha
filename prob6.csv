@@ -1,0 +1,11 @@
+ItemID,ItemName,Category,Quantity,StorageTemperature,LastChecked
+101,Apples,Fruit,120,4,2025-12-20 10:30
+102,Carrots,Vegetable,80,4,2025-12-20 10:35
+103,Milk,Dairy,200,4,2025-12-20 10:40
+104,Cheese,Dairy,50,4,2025-12-20 10:45
+105,Chicken,Meat,70,4,2025-12-20 10:50
+106,Fish,Seafood,60,4,2025-12-20 10:55
+107,Yogurt,Dairy,100,4,2025-12-20 11:00
+108,Spinach,Vegetable,90,4,2025-12-20 11:05
+109,Oranges,Fruit,150,4,2025-12-20 11:10
+110,Beef,Meat,40,4,2025-12-20 11:15
