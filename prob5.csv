@@ -1,0 +1,11 @@
+ItemID,ItemName,Category,Quantity,StorageTemperature,LastChecked
+101,Apples,Fruit,200,4°C,2025-12-21 08:00
+102,Milk,Dairy,150,4°C,2025-12-21 08:05
+103,Rice,Grain,300,Ambient,2025-12-21 08:10
+104,Cheese,Dairy,100,4°C,2025-12-21 08:15
+105,Tomatoes,Vegetable,250,Ambient,2025-12-21 08:20
+106,Yogurt,Dairy,120,4°C,2025-12-21 08:25
+107,Potatoes,Vegetable,400,Ambient,2025-12-21 08:30
+108,Chicken,Meat,80,4°C,2025-12-21 08:35
+109,Eggs,Poultry,300,4°C,2025-12-21 08:40
+110,Butter,Dairy,90,4°C,2025-12-21 08:45
