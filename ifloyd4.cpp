@@ -1,18 +1,12 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-int main(){
-    int n=3;
-    int dist[3][3]={{0,3,INF},{2,0,INF},{INF,7,0}};
-
-    for(int k=0;k<n;k++)
-        for(int i=0;i<n;i++)
-            for(int j=0;j<n;j++)
-                if(dist[i][k]+dist[k][j]<dist[i][j])
-                    dist[i][j]=dist[i][k]+dist[k][j];
-
-    for(int i=0;i<n;i++){
-        for(int j=0;j<n;j++) cout<<dist[i][j]<<" ";
-        cout<<"\n";
-    }
-}
+| Soil_Type | Season | Crop      | Recommendation_Score |
+| --------- | ------ | --------- | -------------------- |
+| Loamy     | Kharif | Rice      | 95                   |
+| Loamy     | Rabi   | Wheat     | 90                   |
+| Sandy     | Kharif | Maize     | 85                   |
+| Sandy     | Rabi   | Barley    | 80                   |
+| Clay      | Kharif | Cotton    | 88                   |
+| Clay      | Rabi   | Pulses    | 83                   |
+| Loamy     | Kharif | Sugarcane | 92                   |
+| Sandy     | Kharif | Sorghum   | 78                   |
+| Clay      | Rabi   | Soybean   | 81                   |
+| Loamy     | Rabi   | Mustard   | 87                   |
