@@ -1,0 +1,15 @@
+Source,Destination,Distance(km),TrafficWeight
+Depot,Warehouse A,12,1
+Depot,Warehouse B,15,2
+Warehouse A,Delivery Point 1,8,1
+Warehouse A,Delivery Point 2,10,2
+Warehouse B,Delivery Point 2,7,1
+Warehouse B,Delivery Point 3,12,3
+Delivery Point 1,Delivery Point 4,5,2
+Delivery Point 2,Delivery Point 4,6,1
+Delivery Point 3,Delivery Point 4,8,2
+Depot,Delivery Point 5,20,3
+Warehouse A,Delivery Point 5,15,2
+Warehouse B,Delivery Point 5,10,1
+Delivery Point 4,Delivery Point 5,7,1
+
